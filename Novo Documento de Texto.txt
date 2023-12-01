@@ -1,0 +1,3 @@
+Total Salário: soma da coluna Salário total da BaseFuncionarios
+Total Dias Trabalhados: soma da coluna Dias úteis trabalhados ano orçamentário
+Salário por Dia Trabalhado: divisão de Total Salário por Total Dias Trabalhados
